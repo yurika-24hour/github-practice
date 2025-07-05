@@ -15,7 +15,7 @@
  */
 
 function over100(number){
-    if (number <= 100){
+    if (number >= 100){
     return true;
 } else {
     return false;
